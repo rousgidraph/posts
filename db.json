@@ -17,6 +17,30 @@
       "first_name": "Ann",
       "last_name": "Smith",
       "email": "ann@codingthesmartway.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Ian",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Jeff",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Ruel",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 7,
+      "first_name": "Jackson",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
     }
   ]
 }
