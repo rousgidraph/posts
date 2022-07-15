@@ -67,5 +67,160 @@
       "last_name": "Smith",
       "email": "ann@codingthesmartway.com"
     }
-  ]
-}
+  ],
+ 
+	"billboards": [{
+			"id": 1,
+			"type": "Classic",
+			"date installed": "1978-06-19T20:51:29.500Z",
+			"client details": {
+				"name": "Freshian",
+				"campaign": "Maziwa safi"
+			},
+			"location": {
+				"lat": -0.4161741207532399,
+				"long": 36.999429988026876,
+				"county": "Nyeri"
+			},
+			"stats": {
+				"Rents": 5,
+				"Total_ammount": 5000,
+				"Cancels": 0
+			}
+		},
+		{
+			"id": 2,
+			"type": "Spinny thing",
+			"date installed": "2002-06-19T20:51:29.500Z",
+			"client details": {
+				"name": "Airtel",
+				"campaign": "Talk talk talk"
+			},
+			"location": {
+				"lat": -0.2680834628263467,
+				"long": 36.12968485298283,
+				"county": "Nakuru"
+			},
+			"stats": {
+				"Rents": 15,
+				"Total_ammount": 55000,
+				"Cancels": 2
+			}
+		},
+		{
+			"id": 3,
+			"type": "Buillding mounted",
+			"date installed": "2010-06-19T20:51:29.500Z",
+			"client details": {
+				"name": "Samsung",
+				"campaign": "S22 ultra"
+			},
+			"location": {
+				"lat": -1.284103088882511,
+				"long": 36.827824228650606,
+				"county": "Nairobi"
+			},
+			"stats": {
+				"Rents": 50,
+				"Total_ammount": 57500,
+				"Cancels": 0
+			}
+		},
+		{
+			"id": 4,
+			"type": "Blinders",
+			"date installed": "2015-09-19T20:51:29.500Z",
+			"client details": {
+				"name": "EABL",
+				"campaign": "Burna Boy"
+			},
+			"location": {
+				"lat": -0.07634608143838663,
+				"long": 34.727867740917716,
+				"county": "Kisumu"
+			},
+			"stats": {
+				"Rents": 13,
+				"Total_ammount": 20000,
+				"Cancels": 4
+			}
+		},
+		{
+			"id": 5,
+			"type": "Classic",
+			"date installed": "1978-06-19T20:51:29.500Z",
+			"client details": {
+				"name": "Eabl",
+				"campaign": "Guiness"
+			},
+			"location": {
+				"lat": -0.424906256770369,
+				"long": 36.95564776884607,
+				"county": "Nyeri"
+			},
+			"stats": {
+				"Rents": 6,
+				"Total_ammount": 4000,
+				"Cancels": 0
+			}
+		},
+		{
+			"id": 6,
+			"type": "Classic",
+			"date installed": "1978-06-19T20:51:29.500Z",
+			"client details": {
+				"name": "JBL",
+				"campaign": "Lets be clear"
+			},
+			"location": {
+				"lat": -3.9873274752628505,
+				"long": 39.73490089980829,
+				"county": "Mombasa"
+			},
+			"stats": {
+				"Rents": 5,
+				"Total_ammount": 5000,
+				"Cancels": 0
+			}
+		},
+		{
+			"id": 7,
+			"type": "Two Sided",
+			"date installed": "1978-06-19T20:51:29.500Z",
+			"client details": {
+				"name": "Freshian",
+				"campaign": "Tunukiwa"
+			},
+			"location": {
+				"lat": 0.016071870585641832,
+				"long": 37.07611082589133,
+				"county": "Nanyuki"
+			},
+			"stats": {
+				"Rents": 5,
+				"Total_ammount": 5000,
+				"Cancels": 0
+			}
+		},
+		{
+			"id": 8,
+			"type": "three sided",
+			"date installed": "1978-06-19T20:51:29.500Z",
+			"client details": {
+				"name": "Hp",
+				"campaign": "Hp spectre"
+			},
+			"location": {
+				"lat": 0.3534225637135941,
+				"long": 37.583465045085156,
+				"county": "Isiolo"
+			},
+			"stats": {
+				"Rents": 50,
+				"Total_ammount": 5685000,
+				"Cancels": 7
+			}
+		}
+	]
+
+  }
