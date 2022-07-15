@@ -72,8 +72,8 @@
 	"billboards": [{
 			"id": 1,
 			"type": "Classic",
-			"date installed": "1978-06-19T20:51:29.500Z",
-			"client details": {
+			"date_installed": "1978-06-19T20:51:29.500Z",
+			"client_details": {
 				"name": "Freshian",
 				"campaign": "Maziwa safi"
 			},
@@ -91,8 +91,8 @@
 		{
 			"id": 2,
 			"type": "Spinny thing",
-			"date installed": "2002-06-19T20:51:29.500Z",
-			"client details": {
+			"date_installed": "2002-06-19T20:51:29.500Z",
+			"client_details": {
 				"name": "Airtel",
 				"campaign": "Talk talk talk"
 			},
@@ -109,9 +109,9 @@
 		},
 		{
 			"id": 3,
-			"type": "Buillding mounted",
-			"date installed": "2010-06-19T20:51:29.500Z",
-			"client details": {
+			"type": "Building mounted",
+			"date_installed": "2010-06-19T20:51:29.500Z",
+			"client_details": {
 				"name": "Samsung",
 				"campaign": "S22 ultra"
 			},
@@ -129,8 +129,8 @@
 		{
 			"id": 4,
 			"type": "Blinders",
-			"date installed": "2015-09-19T20:51:29.500Z",
-			"client details": {
+			"date_installed": "2015-09-19T20:51:29.500Z",
+			"client_details": {
 				"name": "EABL",
 				"campaign": "Burna Boy"
 			},
@@ -148,8 +148,8 @@
 		{
 			"id": 5,
 			"type": "Classic",
-			"date installed": "1978-06-19T20:51:29.500Z",
-			"client details": {
+			"date_installed": "1978-06-19T20:51:29.500Z",
+			"client_details": {
 				"name": "Eabl",
 				"campaign": "Guiness"
 			},
@@ -167,8 +167,8 @@
 		{
 			"id": 6,
 			"type": "Classic",
-			"date installed": "1978-06-19T20:51:29.500Z",
-			"client details": {
+			"date_installed": "1978-06-19T20:51:29.500Z",
+			"client_details": {
 				"name": "JBL",
 				"campaign": "Lets be clear"
 			},
@@ -186,8 +186,8 @@
 		{
 			"id": 7,
 			"type": "Two Sided",
-			"date installed": "1978-06-19T20:51:29.500Z",
-			"client details": {
+			"date_installed": "1978-06-19T20:51:29.500Z",
+			"client_details": {
 				"name": "Freshian",
 				"campaign": "Tunukiwa"
 			},
@@ -205,8 +205,8 @@
 		{
 			"id": 8,
 			"type": "three sided",
-			"date installed": "1978-06-19T20:51:29.500Z",
-			"client details": {
+			"date_installed": "1978-06-19T20:51:29.500Z",
+			"client_details": {
 				"name": "Hp",
 				"campaign": "Hp spectre"
 			},
